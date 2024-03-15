@@ -11,7 +11,7 @@ const José Fernàandez = {
   tools: [ Git, Github, SSH/SSL, Docker, Vscode],
   architecture: ["microservices"],
   techCommunities: {
-                      Groups: "Holberton Career Boost Hub", "DevOps", "Python Developers", "IoT - Internet of Things",
+                      Groups: "Holberton Career Boost Hub", "DevOps", "Python Developers", "IoT-Internet of Things",
                       Schools: "Holberton School", "freeCodeCamp", "Platzi",
                       Newsletters: "The Docker Newsletter", "Cyber Security Hub Newsletter ",
                       },
