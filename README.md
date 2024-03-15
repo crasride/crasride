@@ -6,19 +6,19 @@ A little more about me...
 
 ```javascript
 const JoséFernàndez = {
-   pronouns: "he" | "him",
+  pronouns: "he" | "him",
   "Web Development": {
     Frontend: ["HTML", "CSS", "JavaScript"],
     Backend: ["Node.js", "Django", "Flask"]
   },
   "Software Development": {
-    Code: ["Python", "Bash", "Shell", "Algorithms", "C", "ASM"],
+    "Programming Languages": ["Python", "Bash", "Shell", "Algorithms", "C", "ASM"],
     Databases: ["MySQL", "PostgreSQL"],
     Tools: ["Git", "Github", "SSH/SSL", "Vscode"],
-    System: ["Linux", "Windows"]
+    "Operating Systems": ["Linux", "Windows"]
   },
   DevOps: ["Docker", "Kubernetes", "Jenkins", "Ansible"],
-  Architecture: ["microservices"],
+  Architecture: ["Microservices"],
   TechCommunities: {
     Groups: ["Holberton Career Boost Hub", "DevOps", "Python Developers", "IoT-Internet of Things"],
     Schools: ["Holberton School", "freeCodeCamp", "Platzi"],
@@ -26,4 +26,5 @@ const JoséFernàndez = {
     General: ["Stack Overflow", "Reddit r/programming", "Hacker News"]
   }
 };
+
 ```
