@@ -7,7 +7,7 @@ A little more about me...
 ```javascript
 const José Fernàandez = {
   pronouns: "she" | "her",
-  Code: [Javascript, HTML, CSS, Python, Django, Bash, Shell, SQL, MySQL, PostgreSQL, Algorithmes, Linux, C, ASM]
+  Code: [Javascript, HTML, CSS, Python, Django, Bash, Shell, SQL, MySQL, PostgreSQL, Algorithmes, Linux, C, ASM],
   tools: [ Git, Github, SSH/SSL, Docker, Vscode],
   architecture: ["microservices"],
   techCommunities: {
