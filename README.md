@@ -13,7 +13,7 @@ const José Fernàandez = {
   techCommunities: {
                       Groups: "Holberton Career Boost Hub", "DevOps", "Python Developers", "IoT - Internet of Things",
                       Schools: "Holberton School", "freeCodeCamp", "Platzi",
-                      Newsletters: "The Docker Newsletter", "Cyber Security Hub Newsletter ", "Le numérique pour l'agri-agro",
+                      Newsletters: "The Docker Newsletter", "Cyber Security Hub Newsletter ",
                       },
  Challenge: "I am studying software engineering (low level and blockchain) at the Holberton School in France"
 }
