@@ -12,14 +12,14 @@ const JoséFernàndez = {
     Backend: ["Node.js", "Django", "Flask"]
   },
   "Software Development": {
-    code: ["Python", "Bash", "Shell", "Algorithms", "C", "ASM"],
-    databases: ["MySQL", "PostgreSQL"],
-    tools: ["Git", "Github", "SSH/SSL", "Vscode"],
+    Code: ["Python", "Bash", "Shell", "Algorithms", "C", "ASM"],
+    Databases: ["MySQL", "PostgreSQL"],
+    Tools: ["Git", "Github", "SSH/SSL", "Vscode"],
     System: ["Linux", "Windows"]
   },
   DevOps: ["Docker", "Kubernetes", "Jenkins", "Ansible"],
-  architecture: ["microservices"],
-  techCommunities: {
+  Architecture: ["microservices"],
+  TechCommunities: {
     Groups: ["Holberton Career Boost Hub", "DevOps", "Python Developers", "IoT-Internet of Things"],
     Schools: ["Holberton School", "freeCodeCamp", "Platzi"],
     Newsletters: ["The Docker Newsletter", "Cyber Security Hub Newsletter"],
