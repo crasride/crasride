@@ -17,7 +17,7 @@ const JoséFernàndez = {
     Tools: ["Git", "Github", "SSH/SSL", "Vscode"],
     "Operating Systems": ["Linux", "Windows"]
   },
-  DevOps: ["Docker", "Kubernetes", "Jenkins", "Ansible"],
+  DevOps: ["Docker", "Jenkins", "Ansible"],
   Architecture: ["Microservices"],
   TechCommunities: {
     Groups: ["Holberton Career Boost Hub", "DevOps", "Python Developers", "IoT-Internet of Things"],
