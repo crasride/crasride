@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-A little more about me...  
-🚀After 25 years of career in multi-technical building maintenance (electricity / electronics / telecoms), 
+A little more about me...
 
+🚀After 25 years of career in multi-technical building maintenance (electricity / electronics / telecoms), 
  I undertook a retraining in the design and development of applications.
 
 ```javascript
