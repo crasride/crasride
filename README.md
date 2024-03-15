@@ -27,4 +27,5 @@ const JoséFernàndez = {
   }
 };
 
+Challenge: "I am doing the spe as a student in Software Engineering (Low Level and Blockchain) @ Holberton School France"
 ```
