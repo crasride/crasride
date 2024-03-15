@@ -27,5 +27,5 @@ const JoséFernàndez = {
   }
 };
 
-Challenge: "Studying the student spe in Software Engineering (Low Level and Blockchain) @ Holberton School France"
+Challenge: "Studying the Software Engineering SPEC (Low Level and Blockchain) @ Holberton School France"
 ```
