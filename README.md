@@ -9,7 +9,7 @@ const JoséFernàndez = {
   pronouns: "he" | "him",
   "Web Development": {
     Frontend: ["HTML", "CSS", "JavaScript"],
-    Backend: ["Node.js", "Django", "Flask"]
+    Backend: ["Node.js", "Django", "Flask", "RestApi"]
   },
   "Software Development": {
     "Programming Languages": ["Python", "Bash", "Shell", "Algorithms", "C", "ASM"],
